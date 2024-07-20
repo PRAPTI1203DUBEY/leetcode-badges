@@ -3,4 +3,7 @@
   <li>
     https://github.com/PRAPTI1203DUBEY/leetcode-badges/blob/main/machine-learning-with-python-level-1.png
     </li>
+</li>
+<li>
+  https://github.com/PRAPTI1203DUBEY/leetcode-badges/blob/main/50days.gif
 </li></p>
